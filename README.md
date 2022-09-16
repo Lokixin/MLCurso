@@ -1,0 +1,2 @@
+# Curso de Machine Learning por Dimas Ávila
+Este es el repositorio oficial del curso de Machine Learning ofrecido por Dimas (yo mismo vaya), en [Mi Canal de YouTube](https://www.youtube.com/c/Dimasmas)
